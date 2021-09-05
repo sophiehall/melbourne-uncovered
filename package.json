@@ -1,0 +1,25 @@
+{
+  "name": "melbourne-uncovered",
+  "version": "1.0.0",
+  "description": "A directory of where to find Melbourne's best street art.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophiehall/melbourne-uncovered.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophiehall/melbourne-uncovered/issues"
+  },
+  "homepage": "https://github.com/sophiehall/melbourne-uncovered#readme"
+}
