@@ -2,12 +2,12 @@
   "name": "melbourne-uncovered",
   "version": "1.0.0",
   "description": "A directory of where to find Melbourne's best street art.",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "my-component-library": "file:../marketplace-component-library",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^3.4.1"
   },
   "devDependencies": {
     "lerna": "^3.16.4"
